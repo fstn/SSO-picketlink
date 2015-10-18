@@ -11,7 +11,7 @@
     <default-controller>
         <protocol>http-remoting</protocol>
         <host>localhost</host>
-        <port>9990</port>
+        <port>9991</port>
     </default-controller>
     
     <!-- Example controller alias named 'Test'  
